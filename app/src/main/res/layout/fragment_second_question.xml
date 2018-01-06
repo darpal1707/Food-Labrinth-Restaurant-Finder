@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.darpal.demo5.com.foodlabrinth.darpal.demo5.Not_Decided.SecondQuestion"
+    android:orientation="vertical">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-smallcaps"
+            android:text="WHAT TYPE OF FOOD ARE YOUR TASTE BUDS CRAVING?"
+            android:layout_marginTop="10dp"
+            android:textAlignment="center"
+            android:textSize="13pt" />
+
+        <GridView
+            android:layout_width="wrap_content"
+            android:layout_height="400dp"
+            android:id="@+id/cuisinegrid"
+            android:numColumns="2">
+
+        </GridView>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nextpage"
+        android:layout_gravity="center"
+        android:text="Choose your Ambience (NEXT)"
+        android:layout_marginTop="10dp"/>
+
+
+
+</LinearLayout>

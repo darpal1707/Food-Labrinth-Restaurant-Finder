@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MaterialImageView">
+        <attr name="shadow_size" format="integer" />
+        <attr name="radius_size" format="integer" />
+        <attr name="use_white_bg" format="boolean"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,5 @@
+include ':app', ':folding-cell1', ':shinebuttonlib1', ':filterview1', ':imageviewpopup1', ':diagonallayout'
+project(':folding-cell1').projectDir = new File('folding-cell')
+project(':shinebuttonlib1').projectDir = new File('shinebuttonlib')
+project(':filterview1').projectDir = new File('filterview')
+project(':imageviewpopup1').projectDir = new File('imageviewpopup')

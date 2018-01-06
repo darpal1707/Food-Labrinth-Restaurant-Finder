@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Food_Labrinth_App\Demo5\shinebuttonlib\src\main\assets"/><source path="D:\Food_Labrinth_App\Demo5\shinebuttonlib\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\Food_Labrinth_App\Demo5\shinebuttonlib\src\debug\assets"/></dataSet></merger>

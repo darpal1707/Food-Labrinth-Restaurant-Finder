@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demo5.iml" filepath="$PROJECT_DIR$/Demo5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diagonallayout/diagonallayout.iml" filepath="$PROJECT_DIR$/diagonallayout/diagonallayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filterview/filterview1.iml" filepath="$PROJECT_DIR$/filterview/filterview1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/folding-cell/folding-cell1.iml" filepath="$PROJECT_DIR$/folding-cell/folding-cell1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imageviewpopup/imageviewpopup1.iml" filepath="$PROJECT_DIR$/imageviewpopup/imageviewpopup1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shinebuttonlib/shinebuttonlib1.iml" filepath="$PROJECT_DIR$/shinebuttonlib/shinebuttonlib1.iml" />
+    </modules>
+  </component>
+</project>

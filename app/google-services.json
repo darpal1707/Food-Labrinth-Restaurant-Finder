@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "988962714036",
+    "project_id": "firebase-foodlabrinth"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988962714036:android:2d69746715dafbd1",
+        "android_client_info": {
+          "package_name": "com.foodlabrinth.darpal.demo5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988962714036-ui4or18c1meb3tp9ij06tkvtgnq2rpd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodlabrinth.darpal.demo5",
+            "certificate_hash": "407691c269e22b2e94acd6d42daac971b31c621a"
+          }
+        },
+        {
+          "client_id": "988962714036-v5ouf3s46ec3c1vg3p670eck3upoj433.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZwEKsrtZSmBuXtURFj3x3h95redzVo_k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
